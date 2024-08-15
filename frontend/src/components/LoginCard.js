@@ -43,7 +43,7 @@ const LoginCard = () => {
                     Don't have an account? <Link to="/register">Register</Link>
                 </p>
                 <p>
-                    Forgot your password? <Link to="/send-reset-link">Reset Password</Link>
+                    Forgot your password? <Link to="/forget-password">Reset Password</Link>
                     </p>
 
             </form>
